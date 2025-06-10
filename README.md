@@ -1,0 +1,1 @@
+The program reads in the greed factors of children and the sweetness levels of candies from files. Using a greedy algorithm, it distributes candies in a way that maximizes the number of happy children — i.e., a child is happy if they receive a candy with sweetness ≥ greed.
